@@ -13,12 +13,15 @@ Please create the following visualizations:
 To complete the assignment, follow the below steps:
 
 
+
 **NOTE:** We are first creating Vertical Bar Visualization for 2xx status code.
+
 
 
 ## Step 1. Accessing OpenSearch:
 
  Open your preferred web browser and navigate to the OpenSearch URL.
+
     
     
 ## Step 2. Login to OpenSearch:
@@ -26,9 +29,11 @@ To complete the assignment, follow the below steps:
 Enter your credentials (username and password) to login to the OpenSearch cluster.
 
 
+
 ## Step 3. Navigate to Visualize:
 
 In the OpenSearch dashboard, click on the "Visualize" section.
+
 
 
 ## Step 4. Creating New Vertical Bar Visualization:
@@ -36,10 +41,12 @@ In the OpenSearch dashboard, click on the "Visualize" section.
 Click on the "Create visualization" button, select "Vertical Bar", to start creating a new "Vertical Bar" Visualization.
 
 
+
 ## Step 5. Choose Data Source:
 
 Select the appropriate index pattern that contains the data you want to visualize.
         
+
     
 ## Step 6. Selecting Required Options:
 
@@ -65,10 +72,12 @@ Select the appropriate index pattern that contains the data you want to visualiz
 
 11.Now give the desired range for each status code you want to exclude (e.g 300 to 399, 400 to 499, 500 to 599 etc.).
     
-    	
+
+     
  **NOTE:** Don`t change any further settings.  
 	 
-	 
+
+  
 ## Step 7. Saving Visualization:
     
 1.Navigate to the top, and click on "Save".
@@ -79,11 +88,13 @@ Select the appropriate index pattern that contains the data you want to visualiz
 
 4.Click on the "Save" button.
     
+
     
  **NOTE:** Follow the above steps for "3xx status code" visualization and also for the 3rd visualization. In 3rd visualization you only have to click on twice "Add" option
       	under "Buckets" section,  to create a sub bucket e.g first bucket:"X-axis", second bucket:"Split series", the "Field" option should be "geoip.country_name.keyword"
       	And Don`t change any further settings, just save them with any required names.
-     	 
+
+       
     
 ## Step 8. Adding Visualization on Dashboard:
     
@@ -93,8 +104,10 @@ Select the appropriate index pattern that contains the data you want to visualiz
 
 3.Type the names of your visualizations and click on their names one by one.(They will be added automatically on your dashboard, when you click on their names).
     
-        	
+
+	 
  **NOTE:** The names of each visualization should include "-" between them, such as "My - Status Code", "Dummy - Status Code - Countries".
+
     
     
  **NOTE:** If any adjustments are needed or required for visualizations, then adjust the visualizations or drag the visualizations according to the situation or requirements.
