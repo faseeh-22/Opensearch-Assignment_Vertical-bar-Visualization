@@ -24,13 +24,14 @@ To complete the assignment, follow the below steps:
 
 ## Step 2. Login to OpenSearch:
 
-	Enter your credentials (username and password) to login to the OpenSearch cluster.
+	
+ Enter your credentials (username and password) to login to the OpenSearch cluster.
 
 
 
 ## Step 3. Navigate to Visualize:
 
-	In the OpenSearch dashboard, click on the "Visualize" section.
+In the OpenSearch dashboard, click on the "Visualize" section.
 
 
 
