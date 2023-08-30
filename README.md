@@ -17,7 +17,8 @@ To complete the assignment, follow the below steps:
 
 ## Step 1. Accessing OpenSearch:
 
-	Open your preferred web browser and navigate to the OpenSearch URL.
+	
+ Open your preferred web browser and navigate to the OpenSearch URL.
     
     
 
