@@ -25,6 +25,7 @@ To complete the assignment, follow the below steps:
 ## Step 2. Login to OpenSearch:
 
 	
+
  Enter your credentials (username and password) to login to the OpenSearch cluster.
 
 
